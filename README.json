@@ -1,7 +1,786 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467146500,
+                "language": "Python",
+                "last_commit": "2025-04-18T03:00:28Z",
+                "owner": "vis-nlp",
+                "repo": "ChartQA",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 682422425,
+                "language": "Python",
+                "last_commit": "2025-01-07T18:47:58Z",
+                "owner": "FuxiaoLiu",
+                "repo": "MMC",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlotQA: Reasoning over Scientific Plots.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229201600,
+                "language": null,
+                "last_commit": "2023-06-20T14:34:12Z",
+                "owner": "NiteshMethani",
+                "repo": "PlotQA",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658955843,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-10-25T16:03:45Z",
+                "owner": "findalexli",
+                "repo": "SciGraphQA",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DVQA: Understanding Data Visualizations via Question Answering.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136659718,
+                "language": null,
+                "last_commit": "2019-06-24T01:16:18Z",
+                "owner": "kushalkafle",
+                "repo": "DVQA_dataset",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MapQA: A Dataset for Question Answering on Choropleth Maps.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563451843,
+                "language": null,
+                "last_commit": "2026-01-09T22:41:09Z",
+                "owner": "OSU-slatelab",
+                "repo": "MapQA",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenCQA: Open-ended Question Answering with Charts.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 548533376,
+                "language": "OpenEdge ABL",
+                "last_commit": "2023-06-20T13:28:20Z",
+                "owner": "vis-nlp",
+                "repo": "OpenCQA",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "Factoid Questions\nLong-form Questions",
+          "node_type": "group",
+          "title": "Chart Question Answering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247311171,
+                "language": "Python",
+                "last_commit": "2023-07-23T08:41:26Z",
+                "owner": "JasonObeid",
+                "repo": "Chart2Text",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467145305,
+                "language": "OpenEdge ABL",
+                "last_commit": "2024-07-14T18:27:16Z",
+                "owner": "vis-nlp",
+                "repo": "Chart-to-text",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VisText: A Benchmark for Semantically Rich Chart Captioning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623632178,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-10T23:41:56Z",
+                "owner": "mitvis",
+                "repo": "vistext",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SciCap: Generating Captions for Scientific Figures.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403670959,
+                "language": null,
+                "last_commit": "2021-11-05T16:44:07Z",
+                "owner": "tingyaohsu",
+                "repo": "SciCap",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627578418,
+                "language": null,
+                "last_commit": "2023-07-20T13:15:19Z",
+                "owner": "pranonrahman",
+                "repo": "ChartSumm",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LineCap: Line Charts for Data Visualization Captioning Models.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479985477,
+                "language": null,
+                "last_commit": "2022-07-18T03:07:22Z",
+                "owner": "anita76",
+                "repo": "LineCapDataset",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chart Captioning (Summarization)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480092140,
+                "language": "Python",
+                "last_commit": "2023-06-18T15:27:35Z",
+                "owner": "mubasharaak",
+                "repo": "ChartFC_chartBERT",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chart Fact-checking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814478565,
+                "language": "Python",
+                "last_commit": "2025-12-19T04:37:00Z",
+                "owner": "ChartMimic",
+                "repo": "ChartMimic",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826370266,
+                "language": "Python",
+                "last_commit": "2024-10-15T05:24:34Z",
+                "owner": "fatemehpesaran310",
+                "repo": "Text2Chart31",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chart to Code"
+        }
+      ],
+      "title": "Tasks and Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Simple Neural Network Module for Relational Reasoning.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93711918,
+                    "language": "Python",
+                    "last_commit": "2022-12-06T04:12:56Z",
+                    "owner": "kimhc6028",
+                    "repo": "relational-networks",
+                    "stars": 816
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DVQA: Understanding Data Visualizations via Question Answering.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136659718,
+                    "language": null,
+                    "last_commit": "2019-06-24T01:16:18Z",
+                    "owner": "kushalkafle",
+                    "repo": "DVQA_dataset",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MapQA: A Dataset for Question Answering on Choropleth Maps.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 563451843,
+                    "language": null,
+                    "last_commit": "2026-01-09T22:41:09Z",
+                    "owner": "OSU-slatelab",
+                    "repo": "MapQA",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fixed Output Vocab"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PlotQA: Reasoning over Scientific Plots.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229201600,
+                    "language": null,
+                    "last_commit": "2023-06-20T14:34:12Z",
+                    "owner": "NiteshMethani",
+                    "repo": "PlotQA",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DVQA: Understanding Data Visualizations via Question Answering.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136659718,
+                    "language": null,
+                    "last_commit": "2019-06-24T01:16:18Z",
+                    "owner": "kushalkafle",
+                    "repo": "DVQA_dataset",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Answering Questions about Data Visualizations using Efficient Bimodal Fusion.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330243058,
+                    "language": "Python",
+                    "last_commit": "2021-06-22T15:18:55Z",
+                    "owner": "kushalkafle",
+                    "repo": "PReFIL",
+                    "stars": 14
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dynamic Encoding"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TaPas: Weakly Supervised Table Parsing via Pre-training.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 251642256,
+                    "language": "Python",
+                    "last_commit": "2024-07-22T13:51:30Z",
+                    "owner": "google-research",
+                    "repo": "tapas",
+                    "stars": 1202
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 467146500,
+                    "language": "Python",
+                    "last_commit": "2025-04-18T03:00:28Z",
+                    "owner": "vis-nlp",
+                    "repo": "ChartQA",
+                    "stars": 261
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pre-trained"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Classification-based Methods"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 247311171,
+                    "language": "Python",
+                    "last_commit": "2023-07-23T08:41:26Z",
+                    "owner": "JasonObeid",
+                    "repo": "Chart2Text",
+                    "stars": 160
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SciCap: Generating Captions for Scientific Figures.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403670959,
+                    "language": null,
+                    "last_commit": "2021-11-05T16:44:07Z",
+                    "owner": "tingyaohsu",
+                    "repo": "SciCap",
+                    "stars": 59
+                  }
+                }
+              ],
+              "description": "Saad Obaid ul Islam, Iza Škrjanec, Ondřej Dušek, Vera Demberg",
+              "node_type": "group",
+              "title": "Without Pre-training"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 644162295,
+                    "language": "Python",
+                    "last_commit": "2024-08-18T15:57:32Z",
+                    "owner": "vis-nlp",
+                    "repo": "UniChart",
+                    "stars": 89
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663788314,
+                    "language": "Python",
+                    "last_commit": "2023-07-16T05:39:08Z",
+                    "owner": "zmykevin",
+                    "repo": "ACL2023_ChartT5",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pre-trained"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generation-based Methods"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DOMINO: A Dual-System for Multi-step Visual Language Reasoning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 654265875,
+                "language": "Python",
+                "last_commit": "2023-11-07T22:34:45Z",
+                "owner": "facebookresearch",
+                "repo": "dual-system-for-visual-language-reasoning",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tool Augmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661919338,
+                "language": "Python",
+                "last_commit": "2025-05-30T05:52:43Z",
+                "owner": "X-PLUG",
+                "repo": "mPLUG-DocOwl",
+                "stars": 2410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749755049,
+                "language": "Python",
+                "last_commit": "2024-09-26T06:43:22Z",
+                "owner": "InternScience",
+                "repo": "ChartVLM",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartLlama: A Multimodal LLM for Chart Understanding and Generation.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723761579,
+                "language": "Python",
+                "last_commit": "2023-12-07T06:38:22Z",
+                "owner": "tingxueronghua",
+                "repo": "ChartLlama-code",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738542732,
+                "language": "Python",
+                "last_commit": "2024-09-07T09:31:16Z",
+                "owner": "OpenGVLab",
+                "repo": "ChartAst",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 682422425,
+                "language": "Python",
+                "last_commit": "2025-01-07T18:47:58Z",
+                "owner": "FuxiaoLiu",
+                "repo": "MMC",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824882273,
+                "language": "Python",
+                "last_commit": "2025-01-27T08:08:49Z",
+                "owner": "zwq2018",
+                "repo": "Multi-modal-Self-instruct",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823194173,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-14T21:29:57Z",
+                "owner": "vis-nlp",
+                "repo": "ChartGemma",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distill Visual Chart Reasoning Ability from LLMs to MLLMs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 878044680,
+                "language": "Python",
+                "last_commit": "2025-08-25T07:35:11Z",
+                "owner": "hewei2001",
+                "repo": "ReachQA",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763519059,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-06T05:20:13Z",
+                "owner": "vis-nlp",
+                "repo": "ChartInstruct",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FigurA11y: AI Assistance for Writing Scientific Alt Text.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 745710467,
+                "language": "TypeScript",
+                "last_commit": "2024-02-07T15:49:28Z",
+                "owner": "allenai",
+                "repo": "figura11y",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "START: Spatial and Textual Learning for Chart Understanding.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1115968125,
+                "language": "Python",
+                "last_commit": "2025-12-13T23:21:14Z",
+                "owner": "dragonlzm",
+                "repo": "START",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Visual Instruction Tuning.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629102662,
+                "language": "Python",
+                "last_commit": "2024-08-12T09:52:38Z",
+                "owner": "haotian-liu",
+                "repo": "LLaVA",
+                "stars": 25000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669055343,
+                "language": "Python",
+                "last_commit": "2025-01-13T06:05:22Z",
+                "owner": "Alpha-VLLM",
+                "repo": "LLaMA2-Accessory",
+                "stars": 2801
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632244130,
+                "language": "Python",
+                "last_commit": "2025-04-02T12:30:45Z",
+                "owner": "X-PLUG",
+                "repo": "mPLUG-Owl",
+                "stars": 2539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632244130,
+                "language": "Python",
+                "last_commit": "2025-04-02T12:30:45Z",
+                "owner": "X-PLUG",
+                "repo": "mPLUG-Owl",
+                "stars": 2539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661919338,
+                "language": "Python",
+                "last_commit": "2025-05-30T05:52:43Z",
+                "owner": "X-PLUG",
+                "repo": "mPLUG-DocOwl",
+                "stars": 2410
+              }
+            }
+          ],
+          "description": "Tailored for Chart Understanding\nGeneral-purpose",
+          "node_type": "group",
+          "title": "Large Vision-language Models"
+        }
+      ],
+      "title": "Methods"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:49:32.073Z",
+    "last_updated": "2026-08-24T14:31:43.536Z",
     "original_repository": "khuangaf/Awesome-Chart-Understanding",
     "original_repository_id": 741251289,
     "original_repository_sha": "f379f595a0b78f85e2154304f9a45061c3eafa66",
