@@ -707,7 +707,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25000
+                "stars": 25002
               }
             },
             {
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:43.536Z",
+    "last_updated": "2026-08-25T02:43:28.513Z",
     "original_repository": "khuangaf/Awesome-Chart-Understanding",
     "original_repository_id": 741251289,
     "original_repository_sha": "f379f595a0b78f85e2154304f9a45061c3eafa66",
