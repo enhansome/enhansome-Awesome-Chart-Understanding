@@ -542,7 +542,7 @@
                 "last_commit": "2025-05-30T05:52:43Z",
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2410
+                "stars": 2411
               }
             },
             {
@@ -692,7 +692,7 @@
                 "last_commit": "2025-12-13T23:21:14Z",
                 "owner": "dragonlzm",
                 "repo": "START",
-                "stars": 5
+                "stars": 6
               }
             },
             {
@@ -707,7 +707,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25002
+                "stars": 25003
               }
             },
             {
@@ -767,7 +767,7 @@
                 "last_commit": "2025-05-30T05:52:43Z",
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2410
+                "stars": 2411
               }
             }
           ],
@@ -780,9 +780,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:50:38.808Z",
-    "original_repository": "khuangaf/Awesome-Chart-Understanding",
-    "original_repository_id": 741251289,
+    "last_updated": "2026-08-27T11:24:06.885Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 741251289,
+      "language": null,
+      "last_commit": "2025-12-17T15:36:32Z",
+      "owner": "khuangaf",
+      "repo": "Awesome-Chart-Understanding",
+      "stars": 241
+    },
     "original_repository_sha": "f379f595a0b78f85e2154304f9a45061c3eafa66",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chart-Understanding",
     "enhanced_repository_description": null,
