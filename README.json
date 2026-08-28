@@ -18,7 +18,8 @@
                 "owner": "vis-nlp",
                 "repo": "ChartQA",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "FuxiaoLiu",
                 "repo": "MMC",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "NiteshMethani",
                 "repo": "PlotQA",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "findalexli",
                 "repo": "SciGraphQA",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "kushalkafle",
                 "repo": "DVQA_dataset",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "OSU-slatelab",
                 "repo": "MapQA",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "vis-nlp",
                 "repo": "OpenCQA",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             }
           ],
           "description": "Factoid Questions\nLong-form Questions",
@@ -130,7 +137,8 @@
                 "owner": "JasonObeid",
                 "repo": "Chart2Text",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "vis-nlp",
                 "repo": "Chart-to-text",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "mitvis",
                 "repo": "vistext",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "tingyaohsu",
                 "repo": "SciCap",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "pranonrahman",
                 "repo": "ChartSumm",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "anita76",
                 "repo": "LineCapDataset",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "mubasharaak",
                 "repo": "ChartFC_chartBERT",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "ChartMimic",
                 "repo": "ChartMimic",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "fatemehpesaran310",
                 "repo": "Text2Chart31",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             }
           ],
           "description": null,
@@ -294,7 +310,8 @@
                     "owner": "kimhc6028",
                     "repo": "relational-networks",
                     "stars": 816
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -309,7 +326,8 @@
                     "owner": "kushalkafle",
                     "repo": "DVQA_dataset",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -324,7 +342,8 @@
                     "owner": "OSU-slatelab",
                     "repo": "MapQA",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 }
               ],
               "description": null,
@@ -346,7 +365,8 @@
                     "owner": "NiteshMethani",
                     "repo": "PlotQA",
                     "stars": 83
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -361,7 +381,8 @@
                     "owner": "kushalkafle",
                     "repo": "DVQA_dataset",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -376,7 +397,8 @@
                     "owner": "kushalkafle",
                     "repo": "PReFIL",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 }
               ],
               "description": null,
@@ -398,7 +420,8 @@
                     "owner": "google-research",
                     "repo": "tapas",
                     "stars": 1202
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -413,7 +436,8 @@
                     "owner": "vis-nlp",
                     "repo": "ChartQA",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 }
               ],
               "description": null,
@@ -442,7 +466,8 @@
                     "owner": "JasonObeid",
                     "repo": "Chart2Text",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -457,7 +482,8 @@
                     "owner": "tingyaohsu",
                     "repo": "SciCap",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 }
               ],
               "description": "Saad Obaid ul Islam, Iza Škrjanec, Ondřej Dušek, Vera Demberg",
@@ -479,7 +505,8 @@
                     "owner": "vis-nlp",
                     "repo": "UniChart",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 },
                 {
                   "node_type": "item",
@@ -494,7 +521,8 @@
                     "owner": "zmykevin",
                     "repo": "ACL2023_ChartT5",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:20:23.924Z"
                 }
               ],
               "description": null,
@@ -521,7 +549,8 @@
                 "owner": "facebookresearch",
                 "repo": "dual-system-for-visual-language-reasoning",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             }
           ],
           "description": null,
@@ -543,7 +572,8 @@
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
                 "stars": 2411
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -558,7 +588,8 @@
                 "owner": "InternScience",
                 "repo": "ChartVLM",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -573,7 +604,8 @@
                 "owner": "tingxueronghua",
                 "repo": "ChartLlama-code",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -588,7 +620,8 @@
                 "owner": "OpenGVLab",
                 "repo": "ChartAst",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -603,7 +636,8 @@
                 "owner": "FuxiaoLiu",
                 "repo": "MMC",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -618,7 +652,8 @@
                 "owner": "zwq2018",
                 "repo": "Multi-modal-Self-instruct",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -633,7 +668,8 @@
                 "owner": "vis-nlp",
                 "repo": "ChartGemma",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -648,7 +684,8 @@
                 "owner": "hewei2001",
                 "repo": "ReachQA",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -663,7 +700,8 @@
                 "owner": "vis-nlp",
                 "repo": "ChartInstruct",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -678,7 +716,8 @@
                 "owner": "allenai",
                 "repo": "figura11y",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -693,7 +732,8 @@
                 "owner": "dragonlzm",
                 "repo": "START",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -707,8 +747,9 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25004
-              }
+                "stars": 25005
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -723,7 +764,8 @@
                 "owner": "Alpha-VLLM",
                 "repo": "LLaMA2-Accessory",
                 "stars": 2800
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -738,7 +780,8 @@
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
                 "stars": 2539
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -753,7 +796,8 @@
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
                 "stars": 2539
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             },
             {
               "node_type": "item",
@@ -768,7 +812,8 @@
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
                 "stars": 2411
-              }
+              },
+              "first_seen": "2026-08-28T13:20:23.924Z"
             }
           ],
           "description": "Tailored for Chart Understanding\nGeneral-purpose",
@@ -780,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:26.296Z",
+    "last_updated": "2026-08-28T13:20:23.924Z",
     "original_repository_info": {
       "archived": false,
       "id": 741251289,
