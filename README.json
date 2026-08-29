@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 467146500,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-18T03:00:28Z",
+                "open_issues": 9,
                 "owner": "vis-nlp",
                 "repo": "ChartQA",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -28,12 +33,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NAACL 2024] MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning",
+                "homepage": null,
                 "id": 682422425,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-07T18:47:58Z",
+                "open_issues": 1,
                 "owner": "FuxiaoLiu",
                 "repo": "MMC",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "arxiv",
+                  "benchmark",
+                  "chart",
+                  "dataset",
+                  "gpt",
+                  "instruction-tuning",
+                  "llava",
+                  "minigpt4",
+                  "mplug-owl",
+                  "multimodal",
+                  "otter",
+                  "resource",
+                  "stock"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -44,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset introduced in PlotQA: Reasoning over Scientific Plots",
+                "homepage": null,
                 "id": 229201600,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-06-20T14:34:12Z",
+                "open_issues": 5,
                 "owner": "NiteshMethani",
                 "repo": "PlotQA",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -60,12 +89,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SciGraphQA: Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs",
+                "homepage": "https://arxiv.org/abs/2308.03349",
                 "id": 658955843,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-25T16:03:45Z",
+                "open_issues": 0,
                 "owner": "findalexli",
                 "repo": "SciGraphQA",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "datasets",
+                  "llm",
+                  "synthetic-data",
+                  "vision-language",
+                  "vision-transformer",
+                  "vqa",
+                  "vqa-dataset"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -76,12 +118,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DVQA Dataset: A Bar chart question answering dataset presented at CVPR 2018",
+                "homepage": null,
                 "id": 136659718,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-24T01:16:18Z",
+                "open_issues": 1,
                 "owner": "kushalkafle",
                 "repo": "DVQA_dataset",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "bar-chart",
+                  "cvpr2018",
+                  "dataset",
+                  "deep-learning",
+                  "question-answering",
+                  "vqa"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -92,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 563451843,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-01-09T22:41:09Z",
+                "open_issues": 2,
                 "owner": "OSU-slatelab",
                 "repo": "MapQA",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -108,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 548533376,
                 "language": "OpenEdge ABL",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-20T13:28:20Z",
+                "open_issues": 2,
                 "owner": "vis-nlp",
                 "repo": "OpenCQA",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             }
@@ -131,12 +195,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chart-to-Text: Generating Natural Language Explanations for Charts by Adapting the Transformer Model",
+                "homepage": null,
                 "id": 247311171,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-23T08:41:26Z",
+                "open_issues": 25,
                 "owner": "JasonObeid",
                 "repo": "Chart2Text",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "dataset",
+                  "nlg"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -147,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 467145305,
                 "language": "OpenEdge ABL",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-14T18:27:16Z",
+                "open_issues": 13,
                 "owner": "vis-nlp",
                 "repo": "Chart-to-text",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -163,12 +240,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VisText is a benchmark dataset for semantically rich chart captioning.",
+                "homepage": "http://vis.csail.mit.edu/pubs/vistext/",
                 "id": 623632178,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-10T23:41:56Z",
+                "open_issues": 4,
                 "owner": "mitvis",
                 "repo": "vistext",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "captioning",
+                  "captioning-images",
+                  "charts",
+                  "dataset",
+                  "t5"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -179,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SciCap Dataset",
+                "homepage": null,
                 "id": 403670959,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-11-05T16:44:07Z",
+                "open_issues": 2,
                 "owner": "tingyaohsu",
                 "repo": "SciCap",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -195,12 +288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChartSum is a large scale benchmark for automatic chart to text summarization",
+                "homepage": null,
                 "id": 627578418,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-20T13:15:19Z",
+                "open_issues": 2,
                 "owner": "pranonrahman",
                 "repo": "ChartSumm",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -211,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 479985477,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-07-18T03:07:22Z",
+                "open_issues": 0,
                 "owner": "anita76",
                 "repo": "LineCapDataset",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             }
@@ -234,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and Code for EACL 2023 Paper \"Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking\"",
+                "homepage": null,
                 "id": 480092140,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-18T15:27:35Z",
+                "open_issues": 0,
                 "owner": "mubasharaak",
                 "repo": "ChartFC_chartBERT",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             }
@@ -257,12 +365,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation",
+                "homepage": "https://chartmimic.github.io/",
                 "id": 814478565,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-19T04:37:00Z",
+                "open_issues": 0,
                 "owner": "ChartMimic",
                 "repo": "ChartMimic",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "artificial-intelligence",
+                  "code-generation",
+                  "multimodal"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -273,12 +390,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback\" (EMNLP 2024 Main Oral)",
+                "homepage": "https://arxiv.org/abs/2410.04064",
                 "id": 826370266,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-15T05:24:34Z",
+                "open_issues": 2,
                 "owner": "fatemehpesaran310",
                 "repo": "Text2Chart31",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "chart",
+                  "chart-generation",
+                  "large-language-models",
+                  "reinforcement-learning",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             }
@@ -304,12 +432,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of \"A simple neural network module for relational reasoning\" (Relational Networks)",
+                    "homepage": "https://arxiv.org/pdf/1706.01427.pdf",
                     "id": 93711918,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-12-06T04:12:56Z",
+                    "open_issues": 9,
                     "owner": "kimhc6028",
                     "repo": "relational-networks",
-                    "stars": 816
+                    "stars": 816,
+                    "topics": [
+                      "deep-learning",
+                      "pytorch",
+                      "relational-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -320,12 +457,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DVQA Dataset: A Bar chart question answering dataset presented at CVPR 2018",
+                    "homepage": null,
                     "id": 136659718,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2019-06-24T01:16:18Z",
+                    "open_issues": 1,
                     "owner": "kushalkafle",
                     "repo": "DVQA_dataset",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "bar-chart",
+                      "cvpr2018",
+                      "dataset",
+                      "deep-learning",
+                      "question-answering",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -336,12 +485,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 563451843,
                     "language": null,
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2026-01-09T22:41:09Z",
+                    "open_issues": 2,
                     "owner": "OSU-slatelab",
                     "repo": "MapQA",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 }
@@ -359,12 +513,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dataset introduced in PlotQA: Reasoning over Scientific Plots",
+                    "homepage": null,
                     "id": 229201600,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2023-06-20T14:34:12Z",
+                    "open_issues": 5,
                     "owner": "NiteshMethani",
                     "repo": "PlotQA",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -375,12 +534,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DVQA Dataset: A Bar chart question answering dataset presented at CVPR 2018",
+                    "homepage": null,
                     "id": 136659718,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2019-06-24T01:16:18Z",
+                    "open_issues": 1,
                     "owner": "kushalkafle",
                     "repo": "DVQA_dataset",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "bar-chart",
+                      "cvpr2018",
+                      "dataset",
+                      "deep-learning",
+                      "question-answering",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -391,12 +562,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the WACV 2020 paper \"Answering Questions about Data Visualizations using Efficient Bimodal Fusion\"",
+                    "homepage": null,
                     "id": 330243058,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-22T15:18:55Z",
+                    "open_issues": 0,
                     "owner": "kushalkafle",
                     "repo": "PReFIL",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 }
@@ -414,12 +590,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "End-to-end neural table-text understanding models.",
+                    "homepage": null,
                     "id": 251642256,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-22T13:51:30Z",
+                    "open_issues": 58,
                     "owner": "google-research",
                     "repo": "tapas",
-                    "stars": 1202
+                    "stars": 1202,
+                    "topics": [
+                      "nlp-machine-learning",
+                      "question-answering",
+                      "table-parsing",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -430,12 +616,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 467146500,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-18T03:00:28Z",
+                    "open_issues": 9,
                     "owner": "vis-nlp",
                     "repo": "ChartQA",
-                    "stars": 261
+                    "stars": 261,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 }
@@ -460,12 +651,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chart-to-Text: Generating Natural Language Explanations for Charts by Adapting the Transformer Model",
+                    "homepage": null,
                     "id": 247311171,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-23T08:41:26Z",
+                    "open_issues": 25,
                     "owner": "JasonObeid",
                     "repo": "Chart2Text",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": [
+                      "dataset",
+                      "nlg"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -476,12 +675,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SciCap Dataset",
+                    "homepage": null,
                     "id": 403670959,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-11-05T16:44:07Z",
+                    "open_issues": 2,
                     "owner": "tingyaohsu",
                     "repo": "SciCap",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 }
@@ -499,12 +703,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 644162295,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-18T15:57:32Z",
+                    "open_issues": 5,
                     "owner": "vis-nlp",
                     "repo": "UniChart",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 },
@@ -515,12 +724,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official code implementation of the ACL 2023 Finding paper: Enhanced Chart Understanding in Vision and Language Task via Cross-modal Pre-training on Plot Table Pairs",
+                    "homepage": null,
                     "id": 663788314,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-16T05:39:08Z",
+                    "open_issues": 0,
                     "owner": "zmykevin",
                     "repo": "ACL2023_ChartT5",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
                 }
@@ -543,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Github repo for Peifeng's internship project",
+                "homepage": null,
                 "id": 654265875,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-07T22:34:45Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "dual-system-for-visual-language-reasoning",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             }
@@ -566,12 +785,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+                "homepage": null,
                 "id": 661919338,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-30T05:52:43Z",
+                "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2411
+                "stars": 2411,
+                "topics": [
+                  "chart-understanding",
+                  "document-understanding",
+                  "mllm",
+                  "multimodal",
+                  "multimodal-large-language-models",
+                  "table-understanding"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -582,12 +813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository of ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning",
+                "homepage": null,
                 "id": 749755049,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-09-26T06:43:22Z",
+                "open_issues": 10,
                 "owner": "InternScience",
                 "repo": "ChartVLM",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -598,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 723761579,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-07T06:38:22Z",
+                "open_issues": 7,
                 "owner": "tingxueronghua",
                 "repo": "ChartLlama-code",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -614,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] ChartAssistant is a chart-based vision-language model for universal chart comprehension and reasoning.",
+                "homepage": null,
                 "id": 738542732,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-07T09:31:16Z",
+                "open_issues": 9,
                 "owner": "OpenGVLab",
                 "repo": "ChartAst",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -630,12 +876,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NAACL 2024] MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning",
+                "homepage": null,
                 "id": 682422425,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-07T18:47:58Z",
+                "open_issues": 1,
                 "owner": "FuxiaoLiu",
                 "repo": "MMC",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "arxiv",
+                  "benchmark",
+                  "chart",
+                  "dataset",
+                  "gpt",
+                  "instruction-tuning",
+                  "llava",
+                  "minigpt4",
+                  "mplug-owl",
+                  "multimodal",
+                  "otter",
+                  "resource",
+                  "stock"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -646,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The codebase for our EMNLP24 paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model",
+                "homepage": "https://arxiv.org/abs/2407.07053",
                 "id": 824882273,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-27T08:08:49Z",
+                "open_issues": 2,
                 "owner": "zwq2018",
                 "repo": "Multi-modal-Self-instruct",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -662,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 823194173,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-14T21:29:57Z",
+                "open_issues": 3,
                 "owner": "vis-nlp",
                 "repo": "ChartGemma",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -678,12 +953,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2025] Distill Visual Chart Reasoning Ability from LLMs to MLLMs",
+                "homepage": "https://arxiv.org/abs/2410.18798",
                 "id": 878044680,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-25T07:35:11Z",
+                "open_issues": 3,
                 "owner": "hewei2001",
                 "repo": "ReachQA",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "data-synthesis",
+                  "llm",
+                  "mllm"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -694,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 763519059,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-06T05:20:13Z",
+                "open_issues": 7,
                 "owner": "vis-nlp",
                 "repo": "ChartInstruct",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -710,12 +999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Assistance for Writing Scientific Alt Text",
+                "homepage": null,
                 "id": 745710467,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-07T15:49:28Z",
+                "open_issues": 2,
                 "owner": "allenai",
                 "repo": "figura11y",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -726,12 +1020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This code repo holds the open-source models and resources reproduced version of paper: START: Spatial and Textual Learning for Chart Understanding (WACV 2026)",
+                "homepage": null,
                 "id": 1115968125,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-13T23:21:14Z",
+                "open_issues": 1,
                 "owner": "dragonlzm",
                 "repo": "START",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -742,12 +1041,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+                "homepage": "https://llava.hliu.cc",
                 "id": 629102662,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-12T09:52:38Z",
+                "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25005
+                "stars": 25005,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "foundation-models",
+                  "gpt-4",
+                  "instruction-tuning",
+                  "llama",
+                  "llama-2",
+                  "llama2",
+                  "llava",
+                  "multi-modality",
+                  "multimodal",
+                  "vision-language-model",
+                  "visual-language-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -758,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open-source Toolkit for LLM Development",
+                "homepage": "https://llama2-accessory.readthedocs.io/",
                 "id": 669055343,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-13T06:05:22Z",
+                "open_issues": 57,
                 "owner": "Alpha-VLLM",
                 "repo": "LLaMA2-Accessory",
-                "stars": 2800
+                "stars": 2800,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -774,12 +1097,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+                "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
                 "id": 632244130,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
+                "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2539
+                "stars": 2539,
+                "topics": [
+                  "alpaca",
+                  "chatbot",
+                  "chatgpt",
+                  "damo",
+                  "dialogue",
+                  "gpt",
+                  "gpt4",
+                  "gpt4-api",
+                  "huggingface",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "llama",
+                  "mplug",
+                  "mplug-owl",
+                  "multimodal",
+                  "pretraining",
+                  "pytorch",
+                  "transformer",
+                  "video",
+                  "visual-recognition"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -790,12 +1139,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+                "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
                 "id": 632244130,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
+                "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2539
+                "stars": 2539,
+                "topics": [
+                  "alpaca",
+                  "chatbot",
+                  "chatgpt",
+                  "damo",
+                  "dialogue",
+                  "gpt",
+                  "gpt4",
+                  "gpt4-api",
+                  "huggingface",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "llama",
+                  "mplug",
+                  "mplug-owl",
+                  "multimodal",
+                  "pretraining",
+                  "pytorch",
+                  "transformer",
+                  "video",
+                  "visual-recognition"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             },
@@ -806,12 +1181,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+                "homepage": null,
                 "id": 661919338,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-30T05:52:43Z",
+                "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2411
+                "stars": 2411,
+                "topics": [
+                  "chart-understanding",
+                  "document-understanding",
+                  "mllm",
+                  "multimodal",
+                  "multimodal-large-language-models",
+                  "table-understanding"
+                ]
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
             }
@@ -825,15 +1212,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:20:23.924Z",
+    "last_updated": "2026-08-29T04:54:34.214Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
+      "homepage": "https://arxiv.org/abs/2403.12027",
       "id": 741251289,
       "language": null,
+      "license": null,
       "last_commit": "2025-12-17T15:36:32Z",
+      "open_issues": 3,
       "owner": "khuangaf",
       "repo": "Awesome-Chart-Understanding",
-      "stars": 241
+      "stars": 241,
+      "topics": [
+        "awesome-list",
+        "chart-captioning",
+        "chart-question-answering",
+        "chart-summarization",
+        "chart-understanding",
+        "large-vision-language-models"
+      ]
     },
     "original_repository_sha": "f379f595a0b78f85e2154304f9a45061c3eafa66",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chart-Understanding",
