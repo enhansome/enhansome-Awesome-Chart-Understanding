@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,484 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,792 | 🐛 106 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -341,7 +341,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning.**
 
   *Liang Zhang, Anwen Hu, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin, Ji Zhang, Fei Huang.* <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2404.16635'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart) ⭐ 2,411 | 🐛 73 | 🌐 Python | 📅 2025-05-30
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart) ⭐ 2,412 | 🐛 73 | 🌐 Python | 📅 2025-05-30
 
 * **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.**
 
@@ -406,7 +406,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Visual Instruction Tuning.**
 
   *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,013 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,012 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
 
 * **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.**
 
@@ -426,7 +426,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**
 
   *Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou.* <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.12895'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5) ⭐ 2,411 | 🐛 73 | 🌐 Python | 📅 2025-05-30
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5) ⭐ 2,412 | 🐛 73 | 🌐 Python | 📅 2025-05-30
 
 * **Gemini: A Family of Highly Capable Multimodal Models.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
