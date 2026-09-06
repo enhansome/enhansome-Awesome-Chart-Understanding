@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,086 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,392 | 🐛 106 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -283,7 +283,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning.**
 
   *Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty.* <img src='https://img.shields.io/badge/EMNLP-2023-yellow'> <a href='https://aclanthology.org/2023.emnlp-main.906/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/UniChart) ⭐ 89 | 🐛 5 | 🌐 Python | 📅 2024-08-18
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/UniChart) ⭐ 90 | 🐛 5 | 🌐 Python | 📅 2024-08-18
 
 * **Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs.**
 
@@ -371,7 +371,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild.**
 
   *Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty.* <img src='https://img.shields.io/badge/COLING Industry-2025-yellow'> <a href='https://arxiv.org/abs/2407.04172v1'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/ChartGemma) ⭐ 78 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-07-14
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/ChartGemma) ⭐ 79 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-07-14
 
 * **Distill Visual Chart Reasoning Ability from LLMs to MLLMs**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

@@ -712,7 +712,7 @@
                     "open_issues": 5,
                     "owner": "vis-nlp",
                     "repo": "UniChart",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
@@ -941,7 +941,7 @@
                 "open_issues": 3,
                 "owner": "vis-nlp",
                 "repo": "ChartGemma",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:17:16.017Z",
+    "last_updated": "2026-09-06T06:28:22.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
