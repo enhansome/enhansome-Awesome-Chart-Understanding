@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "vis-nlp",
                 "repo": "ChartQA",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -625,7 +625,7 @@
                     "open_issues": 9,
                     "owner": "vis-nlp",
                     "repo": "ChartQA",
-                    "stars": 261,
+                    "stars": 262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1050,7 +1050,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25012,
+                "stars": 25014,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:30:32.971Z",
+    "last_updated": "2026-09-09T06:37:58.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
