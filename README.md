@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,349 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,615 | 🐛 106 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -38,7 +38,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.**
 
   *Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque.* <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/ChartQA) ⭐ 262 | 🐛 9 | 🌐 Python | 📅 2025-04-18
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/ChartQA) ⭐ 263 | 🐛 9 | 🌐 Python | 📅 2025-04-18
 
 * **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.**
 
@@ -250,7 +250,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.**
 
   *Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque.* <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/ChartQA) ⭐ 262 | 🐛 9 | 🌐 Python | 📅 2025-04-18
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/ChartQA) ⭐ 263 | 🐛 9 | 🌐 Python | 📅 2025-04-18
 
 * **STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering.**
 
@@ -406,12 +406,12 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Visual Instruction Tuning.**
 
   *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,014 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,016 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
 
 * **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.**
 
   *Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao.* <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.07575'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) ⭐ 2,800 | 🐛 57 | 🌐 Python | 📅 2025-01-13
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) ⭐ 2,799 | 🐛 57 | 🌐 Python | 📅 2025-01-13
 
 * **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
