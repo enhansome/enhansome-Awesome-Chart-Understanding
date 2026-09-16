@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "vis-nlp",
                 "repo": "ChartQA",
-                "stars": 263,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -625,7 +625,7 @@
                     "open_issues": 9,
                     "owner": "vis-nlp",
                     "repo": "ChartQA",
-                    "stars": 263,
+                    "stars": 264,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
@@ -708,7 +708,7 @@
                     "id": 644162295,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2024-08-18T15:57:32Z",
+                    "last_commit": "2026-09-15T19:45:20Z",
                     "open_issues": 5,
                     "owner": "vis-nlp",
                     "repo": "UniChart",
@@ -937,7 +937,7 @@
                 "id": 823194173,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2024-07-14T21:29:57Z",
+                "last_commit": "2026-09-15T19:41:30Z",
                 "open_issues": 3,
                 "owner": "vis-nlp",
                 "repo": "ChartGemma",
@@ -983,7 +983,7 @@
                 "id": 763519059,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2024-07-06T05:20:13Z",
+                "last_commit": "2026-09-15T19:40:25Z",
                 "open_issues": 7,
                 "owner": "vis-nlp",
                 "repo": "ChartInstruct",
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25021,
+                "stars": 25024,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1085,7 +1085,7 @@
                 "open_issues": 57,
                 "owner": "Alpha-VLLM",
                 "repo": "LLaMA2-Accessory",
-                "stars": 2799,
+                "stars": 2798,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:38:14.061Z",
+    "last_updated": "2026-09-16T06:40:16.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
