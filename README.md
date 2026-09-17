@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,482 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,879 | 🐛 106 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -113,12 +113,12 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.**
 
   *Jason Obeid, Enamul Hoque.* <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/JasonObeid/Chart2Text) ⭐ 160 | 🐛 25 | 🌐 Python | 📅 2023-07-23
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/JasonObeid/Chart2Text) ⭐ 161 | 🐛 25 | 🌐 Python | 📅 2023-07-23
 
 * **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.**
 
   *Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty.* <img src='https://img.shields.io/badge/ACL-2022-yellow'> <a href='https://aclanthology.org/2022.acl-long.277/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/Chart-to-text) ⭐ 129 | 🐛 13 | 🌐 OpenEdge ABL | 📅 2024-07-14
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/Chart-to-text) ⭐ 130 | 🐛 13 | 🌐 OpenEdge ABL | 📅 2024-07-14
 
 * **VisText: A Benchmark for Semantically Rich Chart Captioning.**
 
@@ -188,7 +188,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation.**
 
   *Chufan Shi, Cheng Yang, Yaxin Liu, Bo Shui, Junjie Wang, Mohan Jing, Linran Xu, Xinyu Zhu, Siheng Li, Yuxiang Zhang, Gongye Liu, Xiaomei Nie, Deng Cai, Yujiu Yang* <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2406.09961'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/ChartMimic/ChartMimic) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2025-12-19
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/ChartMimic/ChartMimic) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2025-12-19
 
 * **Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback.** <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2410.04064'><img src='https://img.shields.io/badge/PDF-blue'></a> [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/fatemehpesaran310/Text2Chart31) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2024-10-15
 
@@ -263,7 +263,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.**
 
   *Jason Obeid, Enamul Hoque.* <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/JasonObeid/Chart2Text) ⭐ 160 | 🐛 25 | 🌐 Python | 📅 2023-07-23
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/JasonObeid/Chart2Text) ⭐ 161 | 🐛 25 | 🌐 Python | 📅 2023-07-23
 
 * **SciCap: Generating Captions for Scientific Figures.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

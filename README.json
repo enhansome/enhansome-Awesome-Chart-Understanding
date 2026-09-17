@@ -204,7 +204,7 @@
                 "open_issues": 25,
                 "owner": "JasonObeid",
                 "repo": "Chart2Text",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "dataset",
                   "nlg"
@@ -228,7 +228,7 @@
                 "open_issues": 13,
                 "owner": "vis-nlp",
                 "repo": "Chart-to-text",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -374,7 +374,7 @@
                 "open_issues": 0,
                 "owner": "ChartMimic",
                 "repo": "ChartMimic",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "artificial-intelligence",
                   "code-generation",
@@ -660,7 +660,7 @@
                     "open_issues": 25,
                     "owner": "JasonObeid",
                     "repo": "Chart2Text",
-                    "stars": 160,
+                    "stars": 161,
                     "topics": [
                       "dataset",
                       "nlg"
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:40:16.392Z",
+    "last_updated": "2026-09-17T06:36:31.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
