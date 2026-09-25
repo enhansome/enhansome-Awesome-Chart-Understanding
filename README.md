@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,573 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,103 | 🐛 107 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -391,7 +391,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **START: Spatial and Textual Learning for Chart Understanding.**
 
   *Zhuoming Liu, Xiaofeng Gao, Feiyang Niu, Qiaozi Gao, Liu Liu, Robinson Piramuthu.* <img src='https://img.shields.io/badge/WACV-2026-yellow'> <a href='https://arxiv.org/abs/2512.07186'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Code-green'>](https://github.com/dragonlzm/START?tab=readme-ov-file) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-12-13
+  [<img src='https://img.shields.io/badge/Code-green'>](https://github.com/dragonlzm/START?tab=readme-ov-file) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2025-12-13
 
 * **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.**
 
@@ -406,7 +406,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Visual Instruction Tuning.**
 
   *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,037 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,038 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12
 
 * **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
