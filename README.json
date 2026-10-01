@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2025-04-18T03:00:28Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "vis-nlp",
                 "repo": "ChartQA",
                 "stars": 265,
@@ -622,7 +622,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2025-04-18T03:00:28Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "vis-nlp",
                     "repo": "ChartQA",
                     "stars": 265,
@@ -1050,7 +1050,7 @@
                 "open_issues": 1142,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25047,
+                "stars": 25050,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1082,10 +1082,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-13T06:05:22Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "Alpha-VLLM",
                 "repo": "LLaMA2-Accessory",
-                "stars": 2797,
+                "stars": 2796,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1103,7 +1103,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
                 "stars": 2539,
@@ -1145,7 +1145,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
                 "stars": 2539,
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T07:21:24.735Z",
+    "last_updated": "2026-10-01T07:44:24.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
