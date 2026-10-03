@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.",
-              "description": null,
+              "description": "vis-nlp/ChartQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.",
-              "description": null,
+              "description": "FuxiaoLiu/MMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -64,7 +64,7 @@
             {
               "node_type": "item",
               "title": "PlotQA: Reasoning over Scientific Plots.",
-              "description": null,
+              "description": "NiteshMethani/PlotQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -85,7 +85,7 @@
             {
               "node_type": "item",
               "title": "SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs.",
-              "description": null,
+              "description": "findalexli/SciGraphQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -114,7 +114,7 @@
             {
               "node_type": "item",
               "title": "DVQA: Understanding Data Visualizations via Question Answering.",
-              "description": null,
+              "description": "kushalkafle/DVQA_dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,7 +142,7 @@
             {
               "node_type": "item",
               "title": "MapQA: A Dataset for Question Answering on Choropleth Maps.",
-              "description": null,
+              "description": "OSU-slatelab/MapQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +163,7 @@
             {
               "node_type": "item",
               "title": "OpenCQA: Open-ended Question Answering with Charts.",
-              "description": null,
+              "description": "vis-nlp/OpenCQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -191,7 +191,7 @@
             {
               "node_type": "item",
               "title": "Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.",
-              "description": null,
+              "description": "JasonObeid/Chart2Text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.",
-              "description": null,
+              "description": "vis-nlp/Chart-to-text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -236,7 +236,7 @@
             {
               "node_type": "item",
               "title": "VisText: A Benchmark for Semantically Rich Chart Captioning.",
-              "description": null,
+              "description": "mitvis/vistext",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,7 +263,7 @@
             {
               "node_type": "item",
               "title": "SciCap: Generating Captions for Scientific Figures.",
-              "description": null,
+              "description": "tingyaohsu/SciCap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries.",
-              "description": null,
+              "description": "pranonrahman/ChartSumm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "LineCap: Line Charts for Data Visualization Captioning Models.",
-              "description": null,
+              "description": "anita76/LineCapDataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -333,7 +333,7 @@
             {
               "node_type": "item",
               "title": "Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking.",
-              "description": null,
+              "description": "mubasharaak/ChartFC_chartBERT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation.",
-              "description": null,
+              "description": "ChartMimic/ChartMimic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback.",
-              "description": null,
+              "description": "fatemehpesaran310/Text2Chart31",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
                 {
                   "node_type": "item",
                   "title": "A Simple Neural Network Module for Relational Reasoning.",
-                  "description": null,
+                  "description": "kimhc6028/relational-networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -453,7 +453,7 @@
                 {
                   "node_type": "item",
                   "title": "DVQA: Understanding Data Visualizations via Question Answering.",
-                  "description": null,
+                  "description": "kushalkafle/DVQA_dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -481,7 +481,7 @@
                 {
                   "node_type": "item",
                   "title": "MapQA: A Dataset for Question Answering on Choropleth Maps.",
-                  "description": null,
+                  "description": "OSU-slatelab/MapQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -509,7 +509,7 @@
                 {
                   "node_type": "item",
                   "title": "PlotQA: Reasoning over Scientific Plots.",
-                  "description": null,
+                  "description": "NiteshMethani/PlotQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -530,7 +530,7 @@
                 {
                   "node_type": "item",
                   "title": "DVQA: Understanding Data Visualizations via Question Answering.",
-                  "description": null,
+                  "description": "kushalkafle/DVQA_dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -558,7 +558,7 @@
                 {
                   "node_type": "item",
                   "title": "Answering Questions about Data Visualizations using Efficient Bimodal Fusion.",
-                  "description": null,
+                  "description": "kushalkafle/PReFIL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -586,7 +586,7 @@
                 {
                   "node_type": "item",
                   "title": "TaPas: Weakly Supervised Table Parsing via Pre-training.",
-                  "description": null,
+                  "description": "google-research/tapas",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -612,7 +612,7 @@
                 {
                   "node_type": "item",
                   "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.",
-                  "description": null,
+                  "description": "vis-nlp/ChartQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -647,7 +647,7 @@
                 {
                   "node_type": "item",
                   "title": "Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.",
-                  "description": null,
+                  "description": "JasonObeid/Chart2Text",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -671,7 +671,7 @@
                 {
                   "node_type": "item",
                   "title": "SciCap: Generating Captions for Scientific Figures.",
-                  "description": null,
+                  "description": "tingyaohsu/SciCap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -699,7 +699,7 @@
                 {
                   "node_type": "item",
                   "title": "UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning.",
-                  "description": null,
+                  "description": "vis-nlp/UniChart",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -720,7 +720,7 @@
                 {
                   "node_type": "item",
                   "title": "Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs.",
-                  "description": null,
+                  "description": "zmykevin/ACL2023_ChartT5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -753,7 +753,7 @@
             {
               "node_type": "item",
               "title": "DOMINO: A Dual-System for Multi-step Visual Language Reasoning.",
-              "description": null,
+              "description": "facebookresearch/dual-system-for-visual-language-reasoning",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -781,7 +781,7 @@
             {
               "node_type": "item",
               "title": "TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning.",
-              "description": null,
+              "description": "X-PLUG/mPLUG-DocOwl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -794,7 +794,7 @@
                 "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2414,
+                "stars": 2413,
                 "topics": [
                   "chart-understanding",
                   "document-understanding",
@@ -809,7 +809,7 @@
             {
               "node_type": "item",
               "title": "ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.",
-              "description": null,
+              "description": "InternScience/ChartVLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -830,7 +830,7 @@
             {
               "node_type": "item",
               "title": "ChartLlama: A Multimodal LLM for Chart Understanding and Generation.",
-              "description": null,
+              "description": "tingxueronghua/ChartLlama-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning.",
-              "description": null,
+              "description": "OpenGVLab/ChartAst",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -872,7 +872,7 @@
             {
               "node_type": "item",
               "title": "MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.",
-              "description": null,
+              "description": "FuxiaoLiu/MMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model",
-              "description": null,
+              "description": "zwq2018/Multi-modal-Self-instruct",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild.",
-              "description": null,
+              "description": "vis-nlp/ChartGemma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -949,7 +949,7 @@
             {
               "node_type": "item",
               "title": "Distill Visual Chart Reasoning Ability from LLMs to MLLMs",
-              "description": null,
+              "description": "hewei2001/ReachQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -974,7 +974,7 @@
             {
               "node_type": "item",
               "title": "ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning.",
-              "description": null,
+              "description": "vis-nlp/ChartInstruct",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -995,7 +995,7 @@
             {
               "node_type": "item",
               "title": "FigurA11y: AI Assistance for Writing Scientific Alt Text.",
-              "description": null,
+              "description": "allenai/figura11y",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1016,7 +1016,7 @@
             {
               "node_type": "item",
               "title": "START: Spatial and Textual Learning for Chart Understanding.",
-              "description": null,
+              "description": "dragonlzm/START",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1037,7 +1037,7 @@
             {
               "node_type": "item",
               "title": "Visual Instruction Tuning.",
-              "description": null,
+              "description": "haotian-liu/LLaVA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25055,
+                "stars": 25056,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.",
-              "description": null,
+              "description": "Alpha-VLLM/LLaMA2-Accessory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality.",
-              "description": null,
+              "description": "X-PLUG/mPLUG-Owl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration.",
-              "description": null,
+              "description": "X-PLUG/mPLUG-Owl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1177,7 +1177,7 @@
             {
               "node_type": "item",
               "title": "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding",
-              "description": null,
+              "description": "X-PLUG/mPLUG-DocOwl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1190,7 +1190,7 @@
                 "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2414,
+                "stars": 2413,
                 "topics": [
                   "chart-understanding",
                   "document-understanding",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:28:57.947Z",
+    "last_updated": "2026-10-03T04:25:21.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
