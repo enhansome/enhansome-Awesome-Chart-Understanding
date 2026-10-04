@@ -962,7 +962,7 @@
                 "open_issues": 3,
                 "owner": "hewei2001",
                 "repo": "ReachQA",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "data-synthesis",
                   "llm",
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25056,
+                "stars": 25057,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:03:38.582Z",
+    "last_updated": "2026-10-04T07:21:24.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
@@ -1221,7 +1221,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-12-17T15:36:32Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "khuangaf",
       "repo": "Awesome-Chart-Understanding",
       "stars": 241,
