@@ -77,7 +77,7 @@
                 "open_issues": 5,
                 "owner": "NiteshMethani",
                 "repo": "PlotQA",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -522,7 +522,7 @@
                     "open_issues": 5,
                     "owner": "NiteshMethani",
                     "repo": "PlotQA",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25057,
+                "stars": 25058,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1082,7 +1082,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-13T06:05:22Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "Alpha-VLLM",
                 "repo": "LLaMA2-Accessory",
                 "stars": 2796,
@@ -1103,7 +1103,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
-                "open_issues": 102,
+                "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
                 "stars": 2539,
@@ -1145,7 +1145,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
-                "open_issues": 102,
+                "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
                 "stars": 2539,
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:21:24.841Z",
+    "last_updated": "2026-10-05T07:38:55.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
