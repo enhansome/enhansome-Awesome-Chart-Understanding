@@ -794,7 +794,7 @@
                 "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2411,
+                "stars": 2410,
                 "topics": [
                   "chart-understanding",
                   "document-understanding",
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25059,
+                "stars": 25058,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1190,7 +1190,7 @@
                 "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2411,
+                "stars": 2410,
                 "topics": [
                   "chart-understanding",
                   "document-understanding",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:41:30.886Z",
+    "last_updated": "2026-10-08T07:57:22.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
