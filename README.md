@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,321 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,787 | 🐛 105 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -118,7 +118,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.**
 
   *Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty.* <img src='https://img.shields.io/badge/ACL-2022-yellow'> <a href='https://aclanthology.org/2022.acl-long.277/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/Chart-to-text) ⭐ 130 | 🐛 13 | 🌐 OpenEdge ABL | 📅 2024-07-14
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/Chart-to-text) ⭐ 131 | 🐛 13 | 🌐 OpenEdge ABL | 📅 2024-07-14
 
 * **VisText: A Benchmark for Semantically Rich Chart Captioning.**
 
@@ -207,7 +207,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **A Simple Neural Network Module for Relational Reasoning.**
 
   *Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap.* <img src='https://img.shields.io/badge/NeurIPS-2017-yellow'> <a href='https://papers.nips.cc/paper_files/paper/2017/hash/e6acf4b0f69f6f6e60e9a815938aa1ff-Abstract.html'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/kimhc6028/relational-networks) ⭐ 816 | 🐛 9 | 🌐 Python | 📅 2022-12-06
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/kimhc6028/relational-networks) ⭐ 817 | 🐛 9 | 🌐 Python | 📅 2022-12-06
 
 * **DVQA: Understanding Data Visualizations via Question Answering.**
 
@@ -406,22 +406,22 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Visual Instruction Tuning.**
 
   *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,063 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,066 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12
 
 * **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.**
 
   *Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao.* <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.07575'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) ⭐ 2,797 | 🐛 57 | 🌐 Python | 📅 2025-01-13
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX) ⭐ 2,796 | 🐛 57 | 🌐 Python | 📅 2025-01-13
 
 * **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality.**
 
   *Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, Fei Huang.* <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2304.14178'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,539 | 🐛 101 | 🌐 Python | 📅 2025-04-02
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,540 | 🐛 101 | 🌐 Python | 📅 2025-04-02
 
 * **mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration.**
 
   *Qinghao Ye, Haiyang Xu, Jiabo Ye, Ming Yan, Anwen Hu, Haowei Liu, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou.* <img src='https://img.shields.io/badge/CVPR-2024-yellow'> <a href='https://arxiv.org/abs/2311.04257'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,539 | 🐛 101 | 🌐 Python | 📅 2025-04-02
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,540 | 🐛 101 | 🌐 Python | 📅 2025-04-02
 
 * **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
