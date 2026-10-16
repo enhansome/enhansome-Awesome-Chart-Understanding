@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,142 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,605 | 🐛 105 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -38,7 +38,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.**
 
   *Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque.* <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/ChartQA) ⭐ 266 | 🐛 10 | 🌐 Python | 📅 2025-04-18
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/vis-nlp/ChartQA) ⭐ 267 | 🐛 11 | 🌐 Python | 📅 2025-04-18
 
 * **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.**
 
@@ -250,7 +250,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.**
 
   *Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque.* <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/ChartQA) ⭐ 266 | 🐛 10 | 🌐 Python | 📅 2025-04-18
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/vis-nlp/ChartQA) ⭐ 267 | 🐛 11 | 🌐 Python | 📅 2025-04-18
 
 * **STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2025-04-18T03:00:28Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "vis-nlp",
                 "repo": "ChartQA",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -622,10 +622,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2025-04-18T03:00:28Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "vis-nlp",
                     "repo": "ChartQA",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:22:44.911Z",
+    "last_updated": "2026-10-16T06:18:59.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
