@@ -1025,8 +1025,8 @@
                 "id": 1115968125,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-12-13T23:21:14Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-23T00:34:37Z",
+                "open_issues": 0,
                 "owner": "dragonlzm",
                 "repo": "START",
                 "stars": 8,
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25074,
+                "stars": 25072,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:32:36.991Z",
+    "last_updated": "2026-10-23T06:26:48.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
