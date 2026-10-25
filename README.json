@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25074,
+                "stars": 25078,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:24:34.134Z",
+    "last_updated": "2026-10-25T06:46:13.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
