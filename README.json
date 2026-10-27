@@ -822,7 +822,7 @@
                 "open_issues": 10,
                 "owner": "InternScience",
                 "repo": "ChartVLM",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:23.924Z"
@@ -1050,7 +1050,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25079,
+                "stars": 25078,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:53:57.288Z",
+    "last_updated": "2026-10-27T06:47:17.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
