@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,997 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,644 | 🐛 105 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -48,7 +48,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **PlotQA: Reasoning over Scientific Plots.**
 
   *Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar.* <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://arxiv.org/abs/1909.00997'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/NiteshMethani/PlotQA) ⭐ 84 | 🐛 5 | 📅 2023-06-20
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/NiteshMethani/PlotQA) ⭐ 85 | 🐛 5 | 📅 2023-06-20
 
 * **SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs.**
 
@@ -224,7 +224,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **PlotQA: Reasoning over Scientific Plots.**
 
   *Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar.* <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://arxiv.org/abs/1909.00997'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/NiteshMethani/PlotQA) ⭐ 84 | 🐛 5 | 📅 2023-06-20
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/NiteshMethani/PlotQA) ⭐ 85 | 🐛 5 | 📅 2023-06-20
 
 * **DVQA: Understanding Data Visualizations via Question Answering.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
