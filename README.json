@@ -441,7 +441,7 @@
                     "open_issues": 9,
                     "owner": "kimhc6028",
                     "repo": "relational-networks",
-                    "stars": 817,
+                    "stars": 814,
                     "topics": [
                       "deep-learning",
                       "pytorch",
@@ -794,7 +794,7 @@
                 "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2405,
+                "stars": 2406,
                 "topics": [
                   "chart-understanding",
                   "document-understanding",
@@ -1050,7 +1050,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25078,
+                "stars": 25075,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1190,7 +1190,7 @@
                 "open_issues": 73,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-DocOwl",
-                "stars": 2405,
+                "stars": 2406,
                 "topics": [
                   "chart-understanding",
                   "document-understanding",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:38:02.745Z",
+    "last_updated": "2026-11-10T08:48:27.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.",
