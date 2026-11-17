@@ -1,6 +1,6 @@
 # Awesome Chart Understanding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,643 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,212 | 🐛 104 | 📅 2026-09-02
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
@@ -113,7 +113,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.**
 
   *Jason Obeid, Enamul Hoque.* <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/JasonObeid/Chart2Text) ⭐ 161 | 🐛 25 | 🌐 Python | 📅 2023-07-23
+  [<img src='https://img.shields.io/badge/Dataset-red'>](https://github.com/JasonObeid/Chart2Text) ⭐ 162 | 🐛 25 | 🌐 Python | 📅 2023-07-23
 
 * **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.**
 
@@ -263,7 +263,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.**
 
   *Jason Obeid, Enamul Hoque.* <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/JasonObeid/Chart2Text) ⭐ 161 | 🐛 25 | 🌐 Python | 📅 2023-07-23
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/JasonObeid/Chart2Text) ⭐ 162 | 🐛 25 | 🌐 Python | 📅 2023-07-23
 
 * **SciCap: Generating Captions for Scientific Figures.**
 
@@ -406,7 +406,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 * **Visual Instruction Tuning.**
 
   *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,077 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
+  [<img src='https://img.shields.io/badge/Model-green'>](https://github.com/haotian-liu/LLaVA) ⭐ 25,076 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
 
 * **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.**
 
@@ -475,4 +475,4 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
